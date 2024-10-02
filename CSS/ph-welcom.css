@@ -1,0 +1,58 @@
+
+.welcom {
+
+   font-size: 50px;
+
+   font-family: Arial, Helvetica, sans-serif;
+
+   font-weight: bold;
+
+   color: black;
+
+}
+
+/* .pharmacy {
+   color: #80CBC4;
+   font-size: xx-large;
+   font-weight: bold;
+   font-style: italic;
+   font-family: Arial, Helvetica, sans-serif;
+   text-shadow: 0px 4px 10px 4px gray;
+ } */
+
+.logo {
+   margin-top: -40px;
+
+   margin-bottom: 100px;
+}
+
+a {
+   margin-top: 100px;
+
+   color: green;
+
+   display: block;
+
+   background-color: white;
+
+   border-radius: 5px;
+
+   font-size: 50px;
+
+   margin-top: -10px;
+
+   text-decoration: none;
+
+   transition-duration: 0.8s;
+
+
+}
+span {
+   color: green;
+}
+
+a:hover {
+   background-color:green ;
+
+   color: white;
+}

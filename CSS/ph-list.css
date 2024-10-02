@@ -1,0 +1,106 @@
+/* MINI IPHONE  */
+
+@media (max-width:667PX) {
+
+    .pearant {
+        display: grid;
+        height: 100vh;
+        grid-template-columns:repeat(1 , 1fr);
+    }
+    .p1 {
+        width: 230px;
+        height: 200px;
+        color: white;
+        box-shadow: 0px 6px 6px gray;
+        border-radius: 20px;
+        margin: 30px;
+    }
+    .p2 {
+        width: 230px;
+        height: 200px;
+        color: white;
+        box-shadow: 0px 6px 6px gray;
+        border-radius: 20px;
+        margin: 30px;
+    }
+    .p3 {
+        width: 230px;
+        height: 200px;
+        color: white;
+        box-shadow: 0px 6px 6px gray;
+        border-radius: 20px;
+        margin: 30px;
+    }
+    .p4 {
+        width: 230px;
+        height: 200px;
+        color: white;
+        box-shadow: 0px 6px 6px gray;
+        border-radius: 20px;
+        margin: 30px;
+    }
+    .p5 {
+        width: 230px;
+        height: 200px;
+        color: white;
+        box-shadow: 0px 6px 6px gray;
+        border-radius: 20px;
+        margin: 30px;
+    }
+    .p6 {
+        width: 230px;
+        height: 200px;
+        color: white;
+        box-shadow: 0px 6px 6px gray;
+        border-radius: 20px;
+        margin: 30px;
+    }
+    .p7 {
+        width: 230px;
+        height: 200px;
+        color: white;
+        box-shadow: 0px 6px 6px gray;
+        border-radius: 20px;
+        margin: 30px;
+    }
+    .p8 {
+        width: 230px;
+        height: 200px;
+        color: white;
+        box-shadow: 0px 6px 6px gray;
+        border-radius: 20px;
+        margin: 30px;
+    }
+    .p8 {
+        width: 230px;
+        height: 200px;
+        color: white;
+        box-shadow: 0px 6px 6px gray;
+        border-radius: 20px;
+        margin: 30px;
+    }
+    .p10 {
+        width: 230px;
+        height: 200px;
+        color: white;
+        box-shadow: 0px 6px 6px gray;
+        border-radius: 20px;
+        margin: 30px;
+    }
+    .p11 {
+        width: 230px;
+        height: 200px;
+        color: white;
+        box-shadow: 0px 6px 6px gray;
+        border-radius: 20px;
+        margin: 30px;
+    }
+    .p12 {
+        width: 230px;
+        height: 200px;
+        color: white;
+        box-shadow: 0px 6px 6px gray;
+        border-radius: 20px;
+        margin: 30px;
+    }
+}
